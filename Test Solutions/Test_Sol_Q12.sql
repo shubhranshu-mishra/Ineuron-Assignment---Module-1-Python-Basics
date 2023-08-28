@@ -1,0 +1,4 @@
+SELECT * 
+FROM Student
+ORDER BY Age ASC
+LIMIT 1;
